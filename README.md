@@ -8,7 +8,7 @@ For more detail refer below guide.
 
 ## Installation
 
-`npm install --save react-native-user-avatar` or `yarn add react-native-user-avatar`
+`npm install --save react-native-avatar-generator` or `yarn add react-native-avatar-generator`
 
 ## Usage
 ## How to use ? :thinking:	
@@ -16,7 +16,7 @@ For more detail refer below guide.
 ```jsx
 import React from 'react';
 import {View, StyleSheet} from 'react-native';
-import UserAvatar from 'react-native-user-avatar';
+import UserAvatar from 'react-native-avatar-generator';
 
  export default class App extends React.Component {
   render() {
