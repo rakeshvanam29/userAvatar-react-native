@@ -1,0 +1,30 @@
+{
+  "name": "react-native-useravatar-generator",
+  "version": "1.0.0",
+  "description": "A simple react-native library to generate userAvatar for your profile pictures.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakeshvanam29/userAvatar-react-native.git"
+  },
+  "keywords": [
+    "react-native-user-avatar",
+    "user",
+    "avatar",
+    "ui",
+    "avatar",
+    "generate",
+    "avatar",
+    "for",
+    "react-native"
+  ],
+  "author": "Rakesh Vanam",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rakeshvanam29/userAvatar-react-native/issues"
+  },
+  "homepage": "https://github.com/rakeshvanam29/userAvatar-react-native#readme"
+}
