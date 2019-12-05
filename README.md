@@ -1,6 +1,5 @@
 # userAvatar
 ### You can also find the userAvatar other than react-native by visiting https://user-avatar.com 
-### ( This is an simple API to get your userAvatar )
 
 # React Native User Avatar
 
