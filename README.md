@@ -1,5 +1,4 @@
 # userAvatar
-### You can also find the userAvatar other than react-native by visiting https://user-avatar.com 
 
 # React Native User Avatar
 
