@@ -4,6 +4,8 @@
 )](https://www.npmjs.com/package/react-native-avatar-generator)
 [![npm downloads](https://img.shields.io/npm/dm/react-native-avatar-generator.svg?style=flat-square&color=blueviolet)](https://www.npmjs.com/package/react-native-avatar-generator)
 [![Build license](https://img.shields.io/github/license/rakeshvanam29/userAvatar-react-native?style=flat-square)](https://www.npmjs.com/package/react-native-avatar-generator)
+[![npm downloads](https://img.shields.io/npm/dt/react-native-avatar-generator?style=flat-square)](https://www.npmjs.com/package/react-native-avatar-generator)
+
 
 ## Note : Any wrong prop(s) or value passed to the component leads to the default value(s).
 For more detail refer below guide.
